@@ -1,2 +1,1 @@
-# python-
-ai attendance program
+
